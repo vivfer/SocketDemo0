@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>54774C87-4EAD-462A-B22A-59448435DAE7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SocketDemo0</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ABA71BCC7AE35B5D2A2347CBC6DC816347593099</key>
+		<string>https://github.com/jianleer/SocketDemo0.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SocketDemo0.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ABA71BCC7AE35B5D2A2347CBC6DC816347593099</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jianleer/SocketDemo0.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ABA71BCC7AE35B5D2A2347CBC6DC816347593099</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ABA71BCC7AE35B5D2A2347CBC6DC816347593099</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SocketDemo0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
